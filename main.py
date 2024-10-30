@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import asyncio
 
 DISCORD_TOKEN = 'MTMwMTE4NzY3Njk1MDc2MTYzMg.GpVam1.2daK3WkTxkXU2gLVRPNJS1qpOqR7m2Q3snXs9w'  # Replace with your actual Discord token
-CHANNEL_ID = 1301196864959549565  # Replace with the channel ID where you want to post messages
+CHANNEL_ID = 1301282765597315073  # Replace with the channel ID where you want to post messages
 URL_TO_CHECK = 'https://trouverunlogement.lescrous.fr/tools/36/search?bounds=1.4462445_49.241431_3.5592208_48.1201456'  # URL of the logement listings page
 
 # Initialize bot client
